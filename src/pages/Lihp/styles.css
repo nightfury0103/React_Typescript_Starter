@@ -1,0 +1,13 @@
+
+.product-card .status .specialOffer {
+  background-color: #00ff84;
+}
+.product-card .status .soldOut {
+  background-color: #FF9AA2;
+}
+.product-card .status .lastCall {
+  background-color: #FF9AA2;
+}
+.product-card .status .customMade {
+  background-color: #FFC8C8;
+}

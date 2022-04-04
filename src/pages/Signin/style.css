@@ -1,0 +1,18 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+.header-status {
+  display: none !important;
+}
+
+.login-box {
+  min-height: 102vh;
+}
+
+@media screen and (max-width: 991px) {
+  ::-webkit-scrollbar,
+  .logo {
+    display: block !important;
+  }
+}
